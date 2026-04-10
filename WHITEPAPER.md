@@ -1,3 +1,7 @@
+# Current Verified Hash: 
+# 8b77f0e019dd253e8adf14cbdc0301aefbd63f69e002793c49
+
+
 # PDBF V4.0.0-SINGULARITY: The Genesis of Sovereign Bio-Computing
 **A Technical Whitepaper on the Internet of Bio-Nano Things (IoBNT) Operating Systems**
 
